@@ -14,5 +14,4 @@ CREATE TABLE IF NOT EXISTS processed_urls (
 
 conn.commit()
 conn.close()
-
 print("Database initialized successfully.")
