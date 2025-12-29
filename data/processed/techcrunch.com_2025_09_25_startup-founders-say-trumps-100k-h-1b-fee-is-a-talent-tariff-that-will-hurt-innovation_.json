@@ -1,9 +1,21 @@
 {
-  "state_summary": "",
-  "evidence": [],
-  "metadata": {},
-  "confidence": 0.0,
-  "error": "Expecting ',' delimiter: line 7 column 5 (char 479)",
-  "raw_output": "Here is the extracted information in JSON format:\n\n{\n  \"state_summary\": \"Changes to H-1B visa program raise application fee to $100,000, impacting startups and innovation\",\n  \"evidence\": [\n    \"The new fee hike will especially be felt with the new batch of visas available in March.\",\n    \"Critics note that this visa helped bring in people who have gone on to start or run multibillion-dollar companies.\",\n    \"More than 700,000people live in the U.S. on an H-1B, and they\u2019ve brought with them more than 500,000 dependents,\"\n    \"The impact will be severe on the competitiveness and innovation of smaller startups compared to the hyperscales, the big businesses\",\n    \"Many founders warn that the fee sends a signal that foreign talent might not be welcomed.\"\n  ],\n  \"metadata\": {\n    \"source_type\": \"news\",\n    \"startup_name\": \"\",\n    \"investor_name\": \"\",\n    \"funding_stage\": \"\",\n    \"startup_location\": \"\",\n    \"investor_location\": \"\"\n  },\n  \"confidence\": 0.8\n}",
-  "processed_at": "2025-12-27T17:41:55.715838"
+  "state_summary": "The H-1B visa program's fee hike to $100,000 may hurt innovation and competitiveness of smaller startups compared to big businesses.",
+  "evidence": [
+    "Amr Awadallah, founder of AI startup Vectara, says the fee is too high for many startups",
+    "Critics note that this visa helped bring in people who have gone on to start or run multibillion-dollar companies",
+    "The visa has been more accessible than the O-1 visa for extraordinary ability, and quicker to obtain than a green card"
+  ],
+  "keywords": "H-1B visa, startup founders, innovation, competitiveness, fee hike",
+  "metadata": {
+    "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/09/25/startup-founders-say-trumps-100k-h-1b-fee-is-a-talent-tariff-that-will-hurt-innovation/",
+    "startup_name": "",
+    "investor_name": "",
+    "funding_stage": "",
+    "startup_location": "",
+    "investor_location": ""
+  },
+  "confidence": 0.8,
+  "processed_at": "2025-12-29T11:54:30.615441",
+  "model": "llama3"
 }

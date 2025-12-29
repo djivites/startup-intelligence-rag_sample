@@ -1,21 +1,23 @@
 {
-  "state_summary": "CommanderAI, a CRM and sales prospecting platform, aims to disrupt the waste management industry by providing a more efficient way for companies to sell. The company has raised $5 million in seed funding and plans to expand into adjacent industries.",
+  "state_summary": "CommanderAI is building a sales platform for the waste management industry, using AI to fill a gap in existing CRM and prospecting tools.",
   "evidence": [
-    "David Berg learned about the waste management industry by driving a garbage truck around the country",
-    "The industry is dominated by old-school ways of pen and paper, door-to-door knocking, with little technology",
-    "CommanderAI's software is better suited to the types of contracts that waste management companies use",
-    "Waste management companies sell to small, standalone businesses that might not have an online presence",
-    "The company plans to expand outside of waste management and into adjacent industries"
+    "David Berg learned about waste management by driving a garbage truck",
+    "Existing sales platforms are old-school and lack technology",
+    "Waste management companies sell to small businesses and new construction projects",
+    "CommanderAI's software is designed for waste management and industrial services",
+    "The company has raised $5 million in seed funding"
   ],
+  "keywords": "waste management, CommanderAI, sales platform, AI, CRM, prospecting",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/09/30/commanderai-says-its-building-the-salesforce-for-the-waste-management-industry/",
     "startup_name": "CommanderAI",
     "investor_name": "11 Tribes Ventures, Watchfire Ventures, Gaingels, Rad Fund",
     "funding_stage": "seed",
     "startup_location": "",
     "investor_location": ""
   },
-  "confidence": 0.8,
-  "processed_at": "2025-12-27T17:42:40.637365",
+  "confidence": 0.9,
+  "processed_at": "2025-12-29T11:55:15.036995",
   "model": "llama3"
 }

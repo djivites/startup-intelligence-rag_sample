@@ -1,21 +1,24 @@
 {
-  "state_summary": "The venture capital market is expected to undergo significant changes in 2026, driven by advancements in AI and global shifts in technology adoption.",
+  "state_summary": "The article discusses the trends and expectations for startups and venture capital investors in 2026, highlighting the importance of AI, global markets, and new technologies.",
   "evidence": [
-    "Raising in 2025 requires a shift from \u201cvisionary\u201d to \u201cbattle-tested.\u201d",
+    "Raising in 2025 requires a shift from 'visionary' to 'battle-tested.'",
     "Founders must prove to VCs they have more than just traction; they need a distribution advantage.",
+    "The bar is rising for founders to stand out with unique distribution channels or perspectives.",
+    "Capital moats have already formed around crowded sectors.",
     "We expect investor and startup interest to continue at all-time highs.",
-    "I do think we will start to see tuck-in acquisitions, acquihires, and wind-downs in highly concentrated sectors such as coding automation, sales automation, marketing, and advertising.",
-    "AI will remain a hot topic, barring negative hard catalysts that dramatically change conditions, like an energy crisis or a rise in default rates."
+    "AI will stop being a separate category, as it will just be a part of all new technology companies being built."
   ],
+  "keywords": "venture capital, startups, AI, 2026, investment",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/12/26/whats-ahead-for-startups-and-vcs-in-2026-investors-weigh-in/",
     "startup_name": "",
     "investor_name": "",
     "funding_stage": "",
     "startup_location": "",
     "investor_location": ""
   },
-  "confidence": 0.0,
-  "processed_at": "2025-12-27T17:47:00.917478",
+  "confidence": 0.8,
+  "processed_at": "2025-12-29T12:01:35.342669",
   "model": "llama3"
 }

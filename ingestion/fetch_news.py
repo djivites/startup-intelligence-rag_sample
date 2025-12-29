@@ -90,6 +90,7 @@ def fetch_news():
             try:
                 response = requests.get(url, timeout=10)
                 text = extract_clean_text(response.text)
+                text=text+" "+"source_url:"+url
 
                 if len(text) < 300:
                     print("⚠️ Skipped (too short)")

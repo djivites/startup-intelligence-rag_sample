@@ -1,24 +1,21 @@
 {
-  "state_summary": "Tiffany Luck, a partner at NEA, shares her insights on how to craft the perfect pitch for venture capital firms.",
+  "state_summary": "NEA partner Tiffany Luck shares her insights on crafting the perfect pitch for venture firms, emphasizing the importance of answering five key questions: Who, What, Why, How, and numbers.",
   "evidence": [
-    "Founders should have a clear understanding of their company's 'What', 'Why', and 'How'.",
-    "The 'What' sets the stage by explaining the problem, its impact, and existing solutions.",
-    "Showcasing a product demo during 'The What' is effective in grabbing investors' attention.",
-    "Founders should explain their origin story and unique perspective on the solution to demonstrate obsession.",
-    "The 'Why now' addresses market dynamics and readiness for the company's product or service.",
-    "Founders should highlight their team's skills, shared conviction, and milestones achieved so far.",
-    "Discussing pivoting is essential in the 'How' section of the pitch.",
-    "Investors want to see numbers, including market size, traction, and cash burn rate."
+    "founders should answer how to craft the perfect pitch",
+    "NEA partner Tiffany Luck emphasizes the importance of answering five key questions: Who, What, Why, How, and numbers",
+    "investors want to see a product demo during 'The What' stage"
   ],
+  "keywords": "perfect pitch, venture capital, startup funding, entrepreneurship",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/",
     "startup_name": "",
-    "investor_name": "Tiffany Luck",
+    "investor_name": "NEA",
     "funding_stage": "",
-    "startup_location": "",
+    "startup_location": "Boston",
     "investor_location": ""
   },
-  "confidence": 0.8,
-  "processed_at": "2025-12-27T17:38:26.298110",
+  "confidence": 0.9,
+  "processed_at": "2025-12-29T11:49:36.832135",
   "model": "llama3"
 }

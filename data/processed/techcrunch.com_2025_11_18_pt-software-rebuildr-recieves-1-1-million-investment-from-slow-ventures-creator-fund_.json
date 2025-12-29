@@ -1,19 +1,21 @@
 {
-  "state_summary": "Tayla Cannon, a physiotherapist turned entrepreneur, has developed Rebuildr, a HIPAA-compliant platform to help rehab professionals run their own businesses online. She received $1.1 million in seed funding from Slow Ventures.",
+  "state_summary": "Tayla Cannon, a sufferer of chronic back pain, started sharing her perspective online about 'proactive' and 'holistic' ways people can get rid of pain. She now has over 130,000 followers on Instagram and has launched a platform called Rebuildr to help rehab professionals run their own businesses online.",
   "evidence": [
-    "Cannon started sharing her perspective online about 'proactive' and 'holistic' ways people can get rid of pain, which gained her over 130,000 followers on Instagram",
-    "She launched a platform called Athletic Rebuild, which provides rehab and performance coaching for athletes",
-    "Rebuildr is intended to be a 'complete shift from localized reactive care to a proactive, holistic mode', combining consumer solutions, clinicians, education, and software to deliver it all at scale"
+    "Tayla Cannon moved from Australia to the U.S. for a job in a city she'd never seen before",
+    "She started working in physiotherapy, thinking it was helping make a difference in the lives of others",
+    "She became disillusioned with the traditional physiotherapy model and shifted her focus to interventional cardiology"
   ],
+  "keywords": "Rebuildr, Tayla Cannon, physiotherapy, chronic back pain, entrepreneurship, startup",
   "metadata": {
     "source_type": "news",
-    "startup_name": "Rebuildr",
+    "source_url": "https://techcrunch.com/2025/11/18/pt-software-rebuildr-recieves-1-1-million-investment-from-slow-ventures-creator-fund/",
+    "startup_name": "",
     "investor_name": "Slow Ventures",
     "funding_stage": "seed round",
-    "startup_location": "",
+    "startup_location": "U.S.",
     "investor_location": ""
   },
   "confidence": 0.9,
-  "processed_at": "2025-12-27T17:45:03.823788",
+  "processed_at": "2025-12-29T11:58:51.186121",
   "model": "llama3"
 }

@@ -1,19 +1,22 @@
 {
-  "state_summary": "Pangyo Techno Valley, South Korea's Silicon Valley equivalent, has over 1,800 startups, research centers, and global tech firms, but its influence wanes compared to Seoul's Gangnam district.",
+  "state_summary": "South Korea's Silicon Valley, Pangyo Techno Valley, struggles to live up to its global ambitions despite being home to many tech startups and big names like Naver and Kakao.",
   "evidence": [
-    "Pangyo Techno Valley is home to more than 1,800 startups, research centers, and global tech firms",
-    "91.5% of companies in Pangyo are small and midsize businesses, with only 3.6% being Big Tech",
-    "Many Korean founders struggle to turn failure into opportunity and lack a clear, authentic narrative about their business"
+    "Pangyo is absolutely Korea's most concentrated hub for software, gaming, platforms, and AI",
+    "91.5% of companies in Pangyo are small and midsize businesses",
+    "Korean startups tend to balance ambition with discipline - building proof at home before going abroad",
+    "Breaking through takes more than ambition; it needs early global partners, deliberate go-to-market resources, and leaders who think cross-border from day one"
   ],
+  "keywords": "Pangyo Techno Valley, Silicon Valley, South Korea, startups, tech",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/09/24/south-koreas-silicon-valley-struggles-to-live-up-to-its-global-ambitions/",
     "startup_name": "",
     "investor_name": "",
     "funding_stage": "",
-    "startup_location": "Pangyo Techno Valley, South Korea",
+    "startup_location": "Pangyo Techno Valley",
     "investor_location": ""
   },
-  "confidence": 0.8,
-  "processed_at": "2025-12-27T17:41:14.492476",
+  "confidence": 0.9,
+  "processed_at": "2025-12-29T11:53:38.240026",
   "model": "llama3"
 }

@@ -1,21 +1,21 @@
 {
-  "state_summary": "Medium CEO Tony Stubblebine shares his company's journey to profitability, including product changes, investor restructuring, renegotiated loans, cost-cutting measures, and layoffs.",
+  "state_summary": "Medium's CEO Tony Stubblebine explains how he turned around the company's financial struggles, which involved product changes, investor restructuring, renegotiated loans, and cost-cutting measures.",
   "evidence": [
-    "Medium was losing $2.6 million per month when Stubblebine joined in 2022",
-    "The company had 760,000 members but was losing money every month",
-    "Medium introduced Boost, a way to add human expertise to recommendations",
-    "The company renegotiated its loans and eliminated liquidation preferences",
-    "Medium simplified its governance to just one tranche of investors"
+    "Medium was losing $2.6 million per month when CEO Tony Stubblebine joined in 2022",
+    "The company had to make tough choices such as layoffs, unloading office space, and renegotiating loans",
+    "Medium introduced a way to add human expertise to recommendations with Boost, changed its Partner Program incentives to reward thoughtful writing, and added a Featuring tool that allowed publications to curate and promote other stories of interest"
   ],
+  "keywords": "Medium, profitability, cost-cutting, layoffs, investor restructuring, loans",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/07/11/mediums-ceo-explains-what-it-took-to-stop-losing-2-6m-monthly/",
     "startup_name": "Medium",
-    "investor_name": "XYZ, Upfront, Greylock, Spark, a16z",
+    "investor_name": "",
     "funding_stage": "",
-    "startup_location": "San Francisco",
+    "startup_location": "",
     "investor_location": ""
   },
   "confidence": 0.9,
-  "processed_at": "2025-12-27T17:37:19.267672",
+  "processed_at": "2025-12-29T11:47:56.219190",
   "model": "llama3"
 }

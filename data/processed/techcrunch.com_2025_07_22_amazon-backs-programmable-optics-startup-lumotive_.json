@@ -1,21 +1,21 @@
 {
-  "state_summary": "Lumotive, a programmable optics startup, adds Amazon and ITHCA Group as investors to its Series B round, raising $59 million.",
+  "state_summary": "Programmable optics startup Lumotive adds Amazon and ITHCA Group as investors to its Series B round, bringing total funding to $59 million.",
   "evidence": [
-    "Amazon Industrial Innovation Fund invested in Lumotive's Series B round",
-    "ITHCA Group, the technology investment arm of Oman's sovereign wealth fund, also invested in Lumotive's Series B round",
-    "Lumotive has raised more than $100 million in venture capital to date",
-    "Lumotive's Light Control Metasurface solid-state chips are made up of nano-scale pixels that can be controlled electronically to bend and manipulate light",
-    "The company has purposefully kept its list of customers small and focused, with plans to expand sales and marketing"
+    "Lumotive has raised more than $100 million in venture capital to date.",
+    "The company's Light Control Metasurface solid-state chips can be controlled electronically to bend and manipulate light.",
+    "Lumotive's tech is a proven technology in the field, with potential use cases including autonomous vehicles sensing their surroundings."
   ],
+  "keywords": "Lumotive, Amazon, ITHCA Group, Series B funding",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/",
     "startup_name": "Lumotive",
-    "investor_name": "Amazon Industrial Innovation Fund, ITHCA Group",
+    "investor_name": "Amazon, ITHCA Group",
     "funding_stage": "Series B",
     "startup_location": "Redmond, Washington",
-    "investor_location": ""
+    "investor_location": "Oman"
   },
-  "confidence": 0.8,
-  "processed_at": "2025-12-27T17:39:45.691561",
+  "confidence": 0.9,
+  "processed_at": "2025-12-29T11:51:07.368401",
   "model": "llama3"
 }

@@ -1,21 +1,21 @@
 {
-  "state_summary": "Phia, an AI-powered shopping tool, helps users find deals and understand the value of what they're buying. It integrates with over 150 second-hand platforms and has a database of over 350 million items.",
+  "state_summary": "Phia's AI-powered shopping assistant helps users discover, shop and buy online by providing personalized recommendations, price comparisons and sustainability factors. Its founders used their own struggles with online shopping to identify a market opportunity.",
   "evidence": [
-    "Phia's founders Phoebe Gates and Sophia Kianni understood e-commerce because they had spent hours trying to find the right items to expand their wardrobe.",
-    "The startup emerged from a class project where it proved its initial demand.",
-    "The tool lets shoppers compare prices, including for second-hand items, adding a sustainability factor to the shopping experience.",
-    "Buying second-hand represents an 80% reduction in carbon footprint, compared with buying new.",
-    "Phia says it integrates with more than 150 second-hand platforms and has over 350 million items in its in-house search database."
+    "The founders, Phoebe Gates and Sophia Kianni, understood e-commerce because they had spent hours trying to find the right items to expand their wardrobe.",
+    "The tool, available as a browser extension and app, lets shoppers compare prices, including for second-hand items, adding a sustainability factor to the shopping experience.",
+    "Buying second-hand represents an 80% reduction in carbon footprint, compared with buying new."
   ],
+  "keywords": "online shopping, AI, personal shopper, price comparisons, sustainability",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/10/29/phias-founders-on-how-ai-is-changing-online-shopping/",
     "startup_name": "Phia",
     "investor_name": "",
     "funding_stage": "",
     "startup_location": "",
     "investor_location": ""
   },
-  "confidence": 0.8,
-  "processed_at": "2025-12-27T17:44:28.036124",
+  "confidence": 0.9,
+  "processed_at": "2025-12-29T11:57:59.720447",
   "model": "llama3"
 }

@@ -9,14 +9,16 @@ llm = ollama.Ollama(model="llama3", temperature=0.7)
 def extract_structured_data(article_text: str):
     prompt = f"""
 You are an information extraction system.
-
+also store in such a way that it should be easy for the rag to retrive the information.
 Return ONLY valid JSON in this exact format:
 
 {{
   "state_summary": "2–3 sentence summary",
   "evidence": ["fact1", "fact2", "fact3"],
+  "keywords":"importan keyword for easy retrivel"
   "metadata": {{
     "source_type": "news",
+    "source_url":"",
     "startup_name": "",
     "investor_name": "",
     "funding_stage": "",
@@ -31,6 +33,7 @@ ARTICLE:
 """
 
     try:
+        response=None
         response = llm.invoke(prompt)
 
         # 🔧 Extract JSON safely

@@ -1,19 +1,21 @@
 {
-  "state_summary": "The British Business Bank (BBB) is creating a \u00a3500 million economic package to support diverse and underrepresented fund managers and founders in the UK.",
+  "state_summary": "The UK government's British Business Bank launches a \u00a3500 million package to support diverse and underrepresented fund managers and founders, with a focus on female-led venture funds and backing more diverse fund managers.",
   "evidence": [
-    "\u00a3500 million economic package",
-    "\u00a3100 million committed to supporting female-led ventures",
-    "\u00a3400 million to backing more diverse fund managers and supporting early-stage companies"
+    "The initiative aims to reduce the significant gap in venture capital investment for underrepresented founders and investors.",
+    "At least 50% of investment will go to female fund managers.",
+    "Around 13% of venture teams in the U.K. have women at a senior level, while less than 2% of venture funding goes to minorities."
   ],
+  "keywords": "UK government, British Business Bank, diverse fund managers, underrepresented founders",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/07/13/uk-launches-500-package-to-support-diverse-underrepresented-investors-and-founders/",
     "startup_name": "",
     "investor_name": "",
     "funding_stage": "",
     "startup_location": "",
     "investor_location": ""
   },
-  "confidence": 1.0,
-  "processed_at": "2025-12-27T17:37:40.276974",
+  "confidence": 0.9,
+  "processed_at": "2025-12-29T11:48:44.099831",
   "model": "llama3"
 }

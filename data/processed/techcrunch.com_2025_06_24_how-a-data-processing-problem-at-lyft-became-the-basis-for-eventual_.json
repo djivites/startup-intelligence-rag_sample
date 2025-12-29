@@ -1,21 +1,21 @@
 {
-  "state_summary": "Eventual, a company founded by Sammy Sidhu and Jay Chia, has built an open-source data processing engine called Daft to help companies process unstructured data. The company raised $7.5 million in seed funding and $20 million in Series A funding to expand its offering and create a commercial product.",
+  "state_summary": "Eventual, a data processing engine company, was founded by Sammy Sidhu and Jay Chia to solve the data infrastructure problem faced by Lyft's autonomous vehicle program. The company built an internal tool for Lyft and later launched open source version of Daft, which is designed to work quickly across different modalities from text to audio and video.",
   "evidence": [
-    "Eventual's founders witnessed a brewing data infrastructure problem while working at Lyft's autonomous vehicle program",
-    "Self-driving cars produce a ton of unstructured data from 3D scans, photos, text, and audio",
-    "The company's open-source engine, Daft, is designed to work quickly across different modalities from text to audio and video",
-    "Eventual counts Amazon, CloudKitchens, and Together AI as customers",
-    "The multimodal AI industry is predicted to grow at a 35% compound annual growth rate between 2023 and 2028"
+    "Eventual was founded in early 2022",
+    "The company launched the first open source version of Daft in 2022",
+    "Eventual raised $7.5 million seed round led by CRV and a $20 million Series A round led by Felicis with participation from Microsoft's M12 and Citi"
   ],
+  "keywords": "data processing engine, multimodal data infrastructure, AI applications",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/06/24/how-a-data-processing-problem-at-lyft-became-the-basis-for-eventual/",
     "startup_name": "Eventual",
     "investor_name": "CRV, Felicis, Microsoft's M12, Citi",
-    "funding_stage": "Seed ($7.5M), Series A ($20M)",
+    "funding_stage": "Seed and Series A",
     "startup_location": "",
     "investor_location": ""
   },
-  "confidence": 0.8,
-  "processed_at": "2025-12-27T17:36:11.131181",
-  "model": "llama3"
+  "confidence": 0.9,
+  "processed_at": "2025-12-29T11:46:11.860584",
+  
 }

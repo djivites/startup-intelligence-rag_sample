@@ -1,19 +1,21 @@
 {
-  "state_summary": "Rax is a peer-to-peer clothing rental company founded by Alles, which launched earlier this year. It allows users to rent clothes for up to six months, making it different from competitors that offer only daily rentals.",
+  "state_summary": "Rax, a peer-to-peer clothing rental company, is expanding to the US market after launching earlier this year. The Canadian startup allows users to rent clothing items for up to six months, differentiating it from competitors that offer only daily rentals.",
   "evidence": [
-    "Alles thought her dream was to work at a big company but found herself curious about startups",
-    "She created Rax as a solution to the problem of expensive dresses collecting dust in her closet",
-    "Rax is one of the first clothing rental companies launched in Toronto, and it offers long-term rentals unlike many competitors"
+    "Alles launched Rax as a peer-to-peer clothing rental company earlier this year",
+    "Rax is one of the first of its kind to be launched in Toronto",
+    "The company has about 5,000 users on the app right now"
   ],
+  "keywords": "peer-to-peer clothing rental, Rax, Canadian startup, fashion, sustainability",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/12/16/canadian-peer-to-peer-clothing-rental-company-rax-is-expanding-to-the-u-s/",
     "startup_name": "Rax",
     "investor_name": "",
     "funding_stage": "",
-    "startup_location": "Toronto",
+    "startup_location": "Toronto, Canada",
     "investor_location": ""
   },
-  "confidence": 0.8,
-  "processed_at": "2025-12-27T17:45:34.450504",
+  "confidence": 0.9,
+  "processed_at": "2025-12-29T11:59:38.155239",
   "model": "llama3"
 }

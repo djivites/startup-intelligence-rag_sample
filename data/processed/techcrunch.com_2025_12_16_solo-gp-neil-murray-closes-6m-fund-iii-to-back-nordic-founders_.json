@@ -1,19 +1,21 @@
 {
-  "state_summary": "Neil Murray, founder and general partner at The Nordic Web Ventures, announces the close of $6 million Fund III to invest in early-stage founders in the region, focusing on robotics, AI-native companies, and deep tech.",
+  "state_summary": "Neil Murray, founder and general partner at Copenhagen-based firm The Nordic Web Ventures, announces the close of a $6 million Fund III to invest in early-stage founders in the Nordic region.",
   "evidence": [
-    "The fund will focus on writing the first institutional checks to companies focused on robotics, AI-native companies, and deep tech founders.",
-    "Murray has written the first check into more than 50 companies, with a portfolio including the unicorn Lovable and the remote worker insurance companySafetyWing, and exits like the UI design company Uizard.",
+    "Fund III will focus on writing the first institutional checks to companies focused on robotics, AI-native companies, and deep tech founders.",
+    "Murray has written the first check into more than 50 companies, with a portfolio including the unicorn Lovable and the remote worker insurance company SafetyWing, and exits like the UI design company Uizard.",
     "The Nordic ecosystem is now valued at more than half a trillion dollars and received more than $8 billion in venture funding in 2024."
   ],
+  "keywords": "Nordic red-hot startup movement, Neil Murray, The Nordic Web Ventures",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/12/16/solo-gp-neil-murray-closes-6m-fund-iii-to-back-nordic-founders/",
     "startup_name": "The Nordic Web Ventures",
     "investor_name": "Neil Murray",
-    "funding_stage": "Series III",
-    "startup_location": "Copenhagen",
-    "investor_location": ""
+    "funding_stage": "early-stage",
+    "startup_location": "Copenhagen, Denmark",
+    "investor_location": "U.K."
   },
-  "confidence": 0.8,
-  "processed_at": "2025-12-27T17:46:13.792228",
+  "confidence": 0.9,
+  "processed_at": "2025-12-29T12:00:32.243532",
   "model": "llama3"
 }

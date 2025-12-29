@@ -1,20 +1,21 @@
 {
-  "state_summary": "Ben Sanders launched his emergency response startup Hyper, which announced a $6.3 million seed round led by Eniac Ventures and emerged from stealth. The company uses AI to handle non-emergency calls to 911 services.",
+  "state_summary": "Hyper, an AI voice company, raises $6.3 million to help automate 911 calls by reducing non-emergency call wait times and improving call-taker efficiency.",
   "evidence": [
-    "Sanders had his mother sew yellow stripes on his navy sweatpants as a child because he wanted to become a police officer",
-    "He read an article about using AI to reduce wait time for emergency services in his hometown, which sparked the idea for Hyper",
-    "The company's product can handle some 911 calls and is focused on dealing with non-emergency calls that take time away from critical calls",
-    "Hyper has already gone live with many centers and supports more languages"
+    "Ben Sanders launched Hyper after reading a news article about using AI to reduce emergency services wait time",
+    "Sanders teamed up with his friend Damian McCabe to officially launch Hyper on Monday",
+    "Hyper's product can handle some 911 calls, focusing on non-emergency calls that take away from critical calls"
   ],
+  "keywords": "AI voice company, Hyper, 911 calls, emergency response startup",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/07/21/ai-voice-company-hyper-raises-6-3m-to-help-automate-911-calls/",
     "startup_name": "Hyper",
-    "investor_name": "Eniac Ventures",
-    "funding_stage": "seed",
+    "investor_name": "Eniac Ventures, Ripple Ventures, GreatPoint Ventures, VSC Ventures, Tusk Venture Partners, K5 Global",
+    "funding_stage": "Seed round",
     "startup_location": "",
     "investor_location": ""
   },
-  "confidence": 0.8,
-  "processed_at": "2025-12-27T17:39:06.608228",
-  "model": "llama3"
+  "confidence": 1.0,
+  "processed_at": "2025-12-29T11:50:23.262184",
+  
 }

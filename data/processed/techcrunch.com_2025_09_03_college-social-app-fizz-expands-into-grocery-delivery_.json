@@ -1,12 +1,15 @@
 {
-  "state_summary": "Fizz, a college social app, expands into grocery delivery through a partnership with Gopuff, allowing students to order essentials within Fizz's app in as fast as 15 minutes.",
+  "state_summary": "Fizz, a college social app, expands into grocery delivery through a partnership with Gopuff, allowing students to order essentials within minutes. The expansion was driven by user demand and Fizz's existing marketplace features.",
   "evidence": [
-    "Fizz is available at more than 620 campuses across the United States",
-    "Students are already using Fizz to buy and sell items locally",
-    "Gopuff was founded by college students and has long had a strong presence on campuses"
+    "Fizz is available on over 620 campuses across the US",
+    "The social platform allows students to connect anonymously with others at their university",
+    "Students were already using Fizz to buy and sell through the Fizz Marketplace and coordinate group food delivery",
+    "Gopuff was founded by college students and has a strong presence on campuses, making it a natural fit for Fizz"
   ],
+  "keywords": "Fiz, Gopuff, grocery delivery, college social app, marketplace, Gen Z DNA",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/09/03/college-social-app-fizz-expands-into-grocery-delivery/",
     "startup_name": "Fizz",
     "investor_name": "",
     "funding_stage": "$41 million in funding to date",
@@ -14,6 +17,6 @@
     "investor_location": ""
   },
   "confidence": 0.8,
-  "processed_at": "2025-12-27T17:40:12.317577",
+  "processed_at": "2025-12-29T11:51:54.920613",
   "model": "llama3"
 }

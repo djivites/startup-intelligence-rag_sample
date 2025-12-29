@@ -1,20 +1,23 @@
 {
-  "state_summary": "Justin Wenig, co-founder of Starbridge, discusses his experience with public sector sales and how Starbridge's platform helps streamline this process.",
+  "state_summary": "Justin Wenig, founder of Starbridge, shares his experience of starting a company that aimed to modernize how government and education worked. He highlights the challenges faced by startups trying to sell to the public sector, including fragmented data and bureaucracy. Starbridge, which helps business sales teams monitor opportunities in the public sector, has raised $42 million in Series A funding led by Craft Ventures.",
   "evidence": [
-    "Coursedog was sold to JMI Equity for nine figures in 2021",
-    "Starbridge raised $42 million Series A led by Craft Ventures",
+    "Justin Wenig remembers his days at Y Combinator in 2019",
+    "He sold Coursedog in 2021 for nine figures to JMI Equity and remains on the board",
+    "Starbridge announced a $42 million Series A led by David Sacks' firm Craft Ventures",
     "The company has raised $52 million to date, after previously raising a $10 million seed",
-    "Starbridge's platform helps sales teams monitor opportunities in the public sector and provides insights such as ranked scoring of which accounts are most likely to purchase new technology"
+    "Starbridge plans to launch 'Starbridge integrated experience', so users do not have to always go to the Starbridge platform to use its technology"
   ],
+  "keywords": "Startup, Public Sector, Government, Education, Data Fragmentation, Bureaucracy, Funding, AI Era",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/",
     "startup_name": "Starbridge",
-    "investor_name": "Craft Ventures, Owl Ventures, Commonweal Ventures, Autotech Ventures",
+    "investor_name": "David Sacks' firm Craft Ventures, Owl Ventures, Commonweal Ventures, Autotech Ventures",
     "funding_stage": "Series A",
     "startup_location": "",
     "investor_location": ""
   },
-  "confidence": 0.8,
-  "processed_at": "2025-12-27T17:43:50.227376",
+  "confidence": 0.9,
+  "processed_at": "2025-12-29T11:57:16.196113",
   "model": "llama3"
 }

@@ -15,9 +15,7 @@ os.makedirs(RAW_DIR, exist_ok=True)
 os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
 
 BLOG_FEEDS = [
-    "https://blog.openai.com/rss/",
-    "https://engineering.atspotify.com/feed/",
-    "https://dev.to/feed"
+    "https://visible.vc/blog/top-vcs-in-india-startup-funding-guide/"
 ]
 
 # ---------------- DATABASE ----------------

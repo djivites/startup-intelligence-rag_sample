@@ -1,12 +1,14 @@
 {
-  "state_summary": "Praxis Labs, a learning development platform, was acquired by Torch for an undisclosed amount. The acquisition allows Praxis to help companies solve the question of preparing and managing the next generation of work with humans and AI.",
+  "state_summary": "Praxis Labs, a learning development platform, was acquired by Torch for an undisclosed amount. Co-founders Elise Smith and Heather Shen will join Torch as head of AI growth and head of AI product, respectively.",
   "evidence": [
-    "Praxis Labs launched in 2019 and worked with companies such as eBay, Zoom, Amazon, Google, and Target to build out more equitable and inclusive workplaces through leadership training and skill assessments.",
-    "The company secured a $15 million Series A back in 2021, making Smith one of the few Black women at the time to raise more than $1 million in venture capital funding.",
-    "Smith and Shen will join Torch as head of AI growth and head of AI product, respectively."
+    "Praxis Labs launched in 2019",
+    "Secured a $15 million Series A back in 2021",
+    "Notable investors include Emerson Collective, Steph Curry's fund Penny Jar Capital, Precursor Ventures, and Ulu Ventures"
   ],
+  "keywords": "AI leadership development platform acquisition Torch Praxis Labs",
   "metadata": {
     "source_type": "news",
+    "source_url": "https://techcrunch.com/2025/07/11/ai-leadership-development-platform-praxis-labs-sells-to-torch/",
     "startup_name": "Praxis Labs",
     "investor_name": "Torch",
     "funding_stage": "acquisition",
@@ -14,6 +16,6 @@
     "investor_location": ""
   },
   "confidence": 0.9,
-  "processed_at": "2025-12-27T17:36:47.787528",
+  "processed_at": "2025-12-29T11:47:01.608306",
   "model": "llama3"
 }
