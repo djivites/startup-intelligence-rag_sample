@@ -16,7 +16,6 @@ This system is built with **LangChain + Ollama + ChromaDB**,as of now ollama is 
 
 ---
 
-Here’s the **updated and polished version** of your **🎯 Key Objectives** section with the new points cleanly integrated and professionally phrased:
 
 ---
 
