@@ -108,7 +108,7 @@ startup-intelligence-rag/
 | RAG Framework | LangChain            |
 
 ---
-In Futher implentation we will be using Gemini instead of ollama for better results.
+# In Futher implentation we will be using Gemini instead of ollama for better results.
 
 ## 🧪 How It Works (Pipeline)
 
@@ -191,9 +191,9 @@ streamlit run retrieval/rag_app.py
 | News ingestion       | ✅     |
 | RAG pipeline         | ✅     |
 | Chat history         | ✅     |
-| Multilingual support | 🔄     |
-| Document upload      | 🔄     |
-| UI Dashboard         | 🔄     |
+| Multilingual support | 🔜    |
+| Document upload      | 🔜    |
+| UI Dashboard         | 🔜     |
 | Duplicate detection  | 🔜     |
 | Investor matching    | 🔜     |
 
